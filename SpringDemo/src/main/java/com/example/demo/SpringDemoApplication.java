@@ -13,7 +13,7 @@ public class SpringDemoApplication {
 		System.out.println("added code by TL");
 		System.out.println("added code by DEV");
 		System.out.println("Added by TL on "+new Date());
-		System.out.println("getting exception>>");
+		System.out.println("getting exception>>>");
 		}
 
 }
