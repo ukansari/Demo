@@ -1,5 +1,7 @@
 package com.example.demo;
 
+import java.util.Date;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -10,6 +12,7 @@ public class SpringDemoApplication {
 		SpringApplication.run(SpringDemoApplication.class, args);
 		System.out.println("added code by TL");
 		System.out.println("added code by DEV");
-	}
+		System.out.println("Added by TL on "+new Date());
+		}
 
 }
