@@ -18,7 +18,6 @@ public class SpringDemoApplication {
 		System.out.println("added for when DEV1 import the project");
 		System.out.println("Hi i have imported the project");
 		System.out.println("new git password>>>"+gitPass);
-		
 		}
 
 }
